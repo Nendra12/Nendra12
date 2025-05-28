@@ -31,8 +31,6 @@
 
 ![Nendra12 GitHub stats](https://github-readme-stats.vercel.app/api?username=Nendra12&show_icons=true&theme=radical)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nendra12/Nendra12/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nendra12/Nendra12/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nendra12/Nendra12/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Nendra12/Nendra12/output/snake.svg" alt="Snake animation" />
+
+###
