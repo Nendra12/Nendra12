@@ -6,10 +6,8 @@
   <img src="https://profile-counter.glitch.me/Nendra12/count.svg?"  />
 </div>
 
-###
 <div style="display: flex; gap: 10px;">
-    <h4>Hi, I’m Danendra Mahardhika </h3>
-    <img src="https://media.tenor.com/ZoZqWaSnN5UAAAAi/diwali-sparkles-stars.gif" alt="" width="50px" height="45">
+    <h4>Hi, I’m Danendra Mahardhika 👋</h3>
 </div>
 
 <p>Welcome to my github profile, i'm a junior developer, this is my little playground of passion projects, experiments, and ideas in progress. Let’s innovate!</p>
