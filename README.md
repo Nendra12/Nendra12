@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="">
+<img src="https://media1.tenor.com/m/tP7Xxrv5w5gAAAAC/surgb-_radcollab.gif" alt="" width="100%">
 <p>💻 <b>Tech Stack : </b></p>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cpp,python,mysql,laravel,tailwind,bootstrap,nodejs,npm&theme=dark)](https://skillicons.dev)
@@ -25,7 +25,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="">
+<img src="https://media1.tenor.com/m/tP7Xxrv5w5gAAAAC/surgb-_radcollab.gif" alt="" width="100%">
 
 <p>📊 <b>Guthub Stats :</b></p>
 
