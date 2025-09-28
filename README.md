@@ -2,7 +2,7 @@
 
 ###
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nendra12&color=blue)
+![Pengunjung](https://hits.sh/github.com/Nendra12/hits.svg?style=flat-square)
 
 <div style="display: flex; gap: 10px;">
     <h4>Hi, I’m Danendra Mahardhika 👋</h3>
