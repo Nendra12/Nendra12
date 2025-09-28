@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Nendra12/count.svg?"  />
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Nendra12&color=blue)
 
 <div style="display: flex; gap: 10px;">
     <h4>Hi, I’m Danendra Mahardhika 👋</h3>
