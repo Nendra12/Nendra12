@@ -10,6 +10,8 @@
 
 <p>Welcome to my github profile, i'm a junior developer, this is my little playground of passion projects, experiments, and ideas in progress. Let’s innovate!</p>
 
+<p>📚 I'm currently learning distributed systems, machine learning, data science, and full-stack web development</p>
+
 <p>🌐 <b>Social : </b></p>
 <a href="https://www.instagram.com/nendra.05?igsh=MXFrNnNka2hlNzhjOA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
