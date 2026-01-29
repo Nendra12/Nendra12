@@ -8,7 +8,7 @@
     <h4>Hi, I’m Danendra Mahardhika 👋</h3>
 </div>
 
-<p>Welcome to my github profile, i'm a junior developer, this is my little playground of passion projects, experiments, and ideas in progress. Let’s innovate!</p>
+<p>Welcome to my github profile, i'm a junior web developer, this is my little playground of passion projects, experiments, and ideas in progress. Let’s innovate!</p>
 
 <p>📚 I'm currently learning distributed systems, machine learning, data science, and full-stack web development</p>
 
