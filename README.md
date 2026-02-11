@@ -28,8 +28,6 @@
 
 <p>📊 <b>Guthub Stats :</b></p>
 
-![Nendra12 GitHub stats](https://github-readme-stats.vercel.app/api?username=Nendra12&show_icons=true&theme=radical)
-
 [![Nendra12 GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Nendra12)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <img src="https://raw.githubusercontent.com/Nendra12/Nendra12/output/snake.svg" alt="Snake animation" />
