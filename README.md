@@ -34,9 +34,7 @@
 
 see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
 
-Play [here](https://krishealty.github.io/T-Rex-runner/)
-
-<div align="center">
+<div>
   <a href="https://krishealty.github.io/T-Rex-runner/">
     <img src="https://img.shields.io/badge/PLAY%20GAME-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Play Game" />
   </a>
