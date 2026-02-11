@@ -36,6 +36,12 @@ see the [source](https://cs.chromium.org/chromium/src/components/neterror/resour
 
 Play [here](https://krishealty.github.io/T-Rex-runner/)
 
+<div align="center">
+  <a href="https://krishealty.github.io/T-Rex-runner/">
+    <img src="https://img.shields.io/badge/PLAY%20GAME-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Play Game" />
+  </a>
+</div>
+
 ![chrome offline game cast](assets/screenshot.gif)
 
 ###
