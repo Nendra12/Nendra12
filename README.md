@@ -18,11 +18,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="" width="100%">
 <p>💻 <b>Tech Stack : </b></p>
 
-![Tech Stack](https://skills.syvixor.com/api/icons?perline=15&i=tailwindcss,vite,nodejs,reactjs,nextjs,axios,supabase,dbeaver,vuejs,expressjs)
+![Tech Stack](https://skills.syvixor.com/api/icons?perline=15&i=tailwindcss,nodejs,reactjs,nextjs,axios,supabase,dbeaver,vuejs,expressjs)
 
 <p>🛠 <b>Tools : </b></p>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
+[![My Skills]([https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev](https://skills.syvixor.com/api/icons?perline=15&i=github,figma,zed,postman,vercel,vite,brave))
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="" width="100%">
 
