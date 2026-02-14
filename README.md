@@ -30,8 +30,6 @@
 
 [![Nendra12 GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Nendra12)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-<!-- <img src="https
-
 see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
 
 <div>
